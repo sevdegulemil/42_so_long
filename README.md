@@ -25,10 +25,13 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 1. Projeyi klonlayın:
    ```bash
    git clone https://github.com/kullanıcı_adı/so_long.git
-2. Derleyin
+2. "so_long" dosyasına girin:
+   ```bash
+   cd so_long
+2. Derleyin:
    ```bash
    make
-
+   
 ## Kullanım
 
 Oyun dosyalarını çalıştırmak için terminalde aşağıdaki komutu kullanın:
