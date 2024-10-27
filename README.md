@@ -51,4 +51,6 @@ S: Aşağı
 
 D: Sağa
 
+ESC: ile pencereyi kapatabilirsiniz.
+
 Hedef: Oyuncu toplanması gereken tüm nesneleri toplayarak çıkışa ulaşmalı.
